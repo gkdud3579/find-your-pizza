@@ -5,13 +5,13 @@ Through a simple personality test, users can discover which pizza matches their 
 
 ![Main Image](/images/favicon.ico)
 
----
+
 
 ## **Mini Project From Groomthon Study**
 ### [Visit the App](https://find-your-pizza.site)
 - **Deployment Period**: 24.03.15 ~ 25.03.14
 
----
+
 
 ## **Our Team**
 
@@ -23,7 +23,7 @@ Through a simple personality test, users can discover which pizza matches their 
 | Seoyeon      | Backend       |
 | Taehyeong    | Coaching (CI/CD & Cloud) |
 
----
+
 
 ## **Tech Stack**
 
@@ -32,7 +32,7 @@ Through a simple personality test, users can discover which pizza matches their 
 - **Database**: MySQL  
 - **CI/CD**: GitHub Actions  
 
----
+
 
 ## **AWS Stack**
 
@@ -42,7 +42,7 @@ Through a simple personality test, users can discover which pizza matches their 
 - **Domain and SSL**: ACM (SSL Certificate), Route 53 (Hosting)  
 - **Security**: IAM for GitHub Actions  
 
----
+
 
 ## **Introduction**
 
